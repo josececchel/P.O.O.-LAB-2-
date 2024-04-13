@@ -1,0 +1,4 @@
+José; Cecchel; Josee; elRencoroso; 1; 0; La Rioja 1000; 3472626213; 200
+Sofia; Caballero; Sof; dev4Sofi; 2; 0; Estados Unidos 264; 3534798049; 300
+Maikol; Alegre; maikul; maikAl42; 3; 0; Santiago Del Estero 69; 3534296008; 0 
+Gonzalo; Caballero; caba; gcabagon; 4; 0; Estados Unidos 270; 3413108400; 500
